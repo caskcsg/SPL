@@ -1,27 +1,27 @@
 ## Publication
 # 2022
-[1]	Yinan Bao, Qianwen Ma, Lingwei Wei, Wei Zhou, Songlin Hu. Speaker-Guided Encoder-Decoder Framework for Emotion Recognition in Conversation. In IJCAI 2022. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/bao_ijcai22.pdf) \[code\]
+[1]	Yinan Bao, Qianwen Ma, Lingwei Wei, Wei Zhou, Songlin Hu. Speaker-Guided Encoder-Decoder Framework for Emotion Recognition in Conversation. In IJCAI 2022. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/bao_ijcai22.pdf) \[CODE\]
 
-[2]	Yinan Bao, Qianwen Ma, Lingwei Wei, Wei Zhou, Songlin Hu. Multi-Granularity Semantic Aware Graph Model for Reducing Position Bias in Emotion Cause Pair Extraction. In ACL 2022. CCF-A Findings long paper. [[PDF]](http://kcsg.net/papers/bao_findings-acl.pdf) \[code\]
+[2]	Yinan Bao, Qianwen Ma, Lingwei Wei, Wei Zhou, Songlin Hu. Multi-Granularity Semantic Aware Graph Model for Reducing Position Bias in Emotion Cause Pair Extraction. In ACL 2022. CCF-A Findings long paper. [[PDF]](http://kcsg.net/papers/bao_findings-acl.pdf) \[CODE\]
 
-[3]	Ding Wang, Lingwei Wei, ChunYuan Yuan, Yinan Bao, Wei Zhou, Xian Zhu, Songlin Hu. Cascade-Enhanced Graph Convolutional Networks for Information Diffusion Prediction. In DASFAA 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/Wang_dasffa2022.pdf) \[code\]
+[3]	Ding Wang, Lingwei Wei, ChunYuan Yuan, Yinan Bao, Wei Zhou, Xian Zhu, Songlin Hu. Cascade-Enhanced Graph Convolutional Networks for Information Diffusion Prediction. In DASFAA 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/Wang_dasffa2022.pdf) \[CODE\]
 
-[4]	Xiaobin Zhang, Liangjun Zang, Peng Cheng, Yuqi Wang, Songlin Hu. A Knowledge/Data Enhanced Method for Joint Event and Temporal Relation Extraction. In ICASSP 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/zhangxiaobin_icassp2022.pdf) [[code]](https://github.com/caskcsg/KJETE)
+[4]	Xiaobin Zhang, Liangjun Zang, Peng Cheng, Yuqi Wang, Songlin Hu. A Knowledge/Data Enhanced Method for Joint Event and Temporal Relation Extraction. In ICASSP 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/zhangxiaobin_icassp2022.pdf) [[CODE]](https://github.com/caskcsg/KJETE)
 
-[5]	Weibo Zhang, Fuqing Zhu, Jizhong Han, Tao Guo, Songlin Hu. Cross-layer Aggregation with Transformers for Multi-Label Image Classification. In ICASSP 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/zhangweibo_icassp2022.pdf) \[code\]
+[5]	Weibo Zhang, Fuqing Zhu, Jizhong Han, Tao Guo, Songlin Hu. Cross-layer Aggregation with Transformers for Multi-Label Image Classification. In ICASSP 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/zhangweibo_icassp2022.pdf) \[CODE\]
 
-[6]	Xiaohui Song, Liangjun Zang, Rong Zhang, Songlin Hu, Longtao Huang. EmotionFlow: Capture the Dialogue Level Emotion Transitions. In ICASSP 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/song_icassp2022.pdf) [[code]](https://github.com/caskcsg/emotionflow)
+[6]	Xiaohui Song, Liangjun Zang, Rong Zhang, Songlin Hu, Longtao Huang. EmotionFlow: Capture the Dialogue Level Emotion Transitions. In ICASSP 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/song_icassp2022.pdf) [[CODE]](https://github.com/caskcsg/emotionflow)
 
-[7]	Zhuohua Li, Weibo Zhang, Ziang Yang, Fuqing Zhu, Jizhong Han, Songlin Hu. UFI: a Unified Feature Interaction framework for Multi-Label Image Classification. In ICME 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/li_icme2022.pdf) \[code\]
+[7]	Zhuohua Li, Weibo Zhang, Ziang Yang, Fuqing Zhu, Jizhong Han, Songlin Hu. UFI: a Unified Feature Interaction framework for Multi-Label Image Classification. In ICME 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/li_icme2022.pdf) \[CODE\]
 
-[8]	Ting Ma, Longtao Huang, Qianqian Lu, Songlin Hu. KR-GCN: Knowledge-aware Reasoning with Graph Convolution Network for Explainable Recommendation. TOIS 2022.CCF-A regular paper. [[PDF]](http://kcsg.net/papers/ma_tois2022.pdf) \[code\]
+[8]	Ting Ma, Longtao Huang, Qianqian Lu, Songlin Hu. KR-GCN: Knowledge-aware Reasoning with Graph Convolution Network for Explainable Recommendation. TOIS 2022.CCF-A regular paper. [[PDF]](http://kcsg.net/papers/ma_tois2022.pdf) \[CODE\]
 
-[9]	Ting Ma, Mingming Li, Shangwen Lv, Fuqing Zhu, Longtao Huang, Songlin Hu. ContE: Contextualized Knowledge Graph Embedding for Circular Relations. Data Mining and Knowledge Discovery 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/ma_dmkd2022.pdf) \[code\]
+[9]	Ting Ma, Mingming Li, Shangwen Lv, Fuqing Zhu, Longtao Huang, Songlin Hu. ContE: Contextualized Knowledge Graph Embedding for Circular Relations. Data Mining and Knowledge Discovery 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/ma_dmkd2022.pdf) \[CODE\]
 
-[10]	Xing Wu, Chaochen Gao, Meng Lin, Liangjun Zang, Songlin Hu. Text Smoothing: Enhance Various Data Augmentation Methods on Text Classification Tasks. In ACL 2022. CCF-A Main conference short paper. [[PDF]](http://kcsg.net/papers/wu_acl-short.pdf) [[code]](https://github.com/caskcsg/TextSmoothing)
+[10]	Xing Wu, Chaochen Gao, Meng Lin, Liangjun Zang, Songlin Hu. Text Smoothing: Enhance Various Data Augmentation Methods on Text Classification Tasks. In ACL 2022. CCF-A Main conference short paper. [[PDF]](http://kcsg.net/papers/wu_acl-short.pdf) [[CODE]](https://github.com/caskcsg/TextSmoothing)
 
 # 2021
-[1]	Lingwei Wei, Dou Hu, Wei Zhou, Zhaojuan Yue, Songlin Hu. Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection. In ACL-IJCNLP 2021. CCF-A regular paper. [PDF]完毕 https://github.com/weilingwei96/EBGCN
+[1]	Lingwei Wei, Dou Hu, Wei Zhou, Zhaojuan Yue, Songlin Hu. Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection. In ACL-IJCNLP 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/TextSmoothing)
 
 [2]	Qianwen Ma, Chunyuan Yuan, Wei Zhou, Songlin Hu. Label-Specific Dual Graph Neural Network for Multi-Label Text Classification. In ACL-IJCNLP 2021. CCF-A regular paper. [PDF]待确认
 
