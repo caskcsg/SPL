@@ -23,17 +23,17 @@
 # 2021
 [1]	Lingwei Wei, Dou Hu, Wei Zhou, Zhaojuan Yue, Songlin Hu. Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection. In ACL-IJCNLP 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
-[2]	Qianwen Ma, Chunyuan Yuan, Wei Zhou, Songlin Hu. Label-Specific Dual Graph Neural Network for Multi-Label Text Classification. In ACL-IJCNLP 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/ma_2021.acl-long.pdf) [[CODE]]
+[2]	Qianwen Ma, Chunyuan Yuan, Wei Zhou, Songlin Hu. Label-Specific Dual Graph Neural Network for Multi-Label Text Classification. In ACL-IJCNLP 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/ma_2021.acl-long.pdf) \[CODE\]
 
-[3]	Yan Zhou, Fuqing Zhu, Pu Song, Jizhong Han, Tao Guo, Songlin Hu. An Adaptive Hybrid Framework for Cross-domain Aspect-based Sentiment Analysis. In AAAI 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[3]	Yan Zhou, Fuqing Zhu, Pu Song, Jizhong Han, Tao Guo, Songlin Hu. An Adaptive Hybrid Framework for Cross-domain Aspect-based Sentiment Analysis. In AAAI 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/zhou_aaai2021.pdf) \[CODE\]
 
-[4]	Jinzhu Yang, Ding Wang, Wei Zhou, Wanhui Qian, Xin Wang, Jizhong Han, Songlin Hu. Entity and Relation Matching Consensus for Entity Alignment. In CIKM 2021: 2331-2341. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[4]	Jinzhu Yang, Ding Wang, Wei Zhou, Wanhui Qian, Xin Wang, Jizhong Han, Songlin Hu. Entity and Relation Matching Consensus for Entity Alignment. In CIKM 2021: 2331-2341. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/yang_cikm2021.pdf) \[CODE\]
 
-[5]	Ting Ma, Shangwen Lv, Longtao Huang, Songlin Hu. HiAM: A Hierarchical Attention based Model for knowledge graph multi-hop reasoning. Neural Networks 143: 261-270 (2021). CCF-B regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[5]	Ting Ma, Shangwen Lv, Longtao Huang, Songlin Hu. HiAM: A Hierarchical Attention based Model for knowledge graph multi-hop reasoning. Neural Networks 143: 261-270 (2021). CCF-B regular paper. [[PDF]](http://kcsg.net/papers/ma_nn2021.pdf) \[CODE\]
 
-[6]	Jinzhu Yang, Wei Zhou, Wanhui Qian, Jizhong Han, Songlin Hu. Topic Sequence Embedding for User Identity Linkage from Heterogeneous Behavior Data. In ICASSP 2021. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[6]	Jinzhu Yang, Wei Zhou, Wanhui Qian, Jizhong Han, Songlin Hu. Topic Sequence Embedding for User Identity Linkage from Heterogeneous Behavior Data. In ICASSP 2021. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/yang_icassp21.pdf) \[CODE\]
 
-[7]	Wanhui Qian, Fuqing Zhu, Jinzhu Yang, Jizhong Han, Songlin Hu. Aligning the Training and Evaluation of Unsupervised Text Style Transfer. In ICASSP 2021. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[7]	Wanhui Qian, Fuqing Zhu, Jinzhu Yang, Jizhong Han, Songlin Hu. Aligning the Training and Evaluation of Unsupervised Text Style Transfer. In ICASSP 2021. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/qian_icassp21.pdf) \[CODE\]
 # 2020
 [1]	Shangwen Lv, Daya Guo, Jingjing Xu, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Songlin Hu. Graph-based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering. In AAAI 2020: 8449-8456. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
