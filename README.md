@@ -42,6 +42,7 @@
 [3]	Jinrong Guo, Songlin Hu, Wang Wang, Chunrong Yao, Jizhong Han, Ruixuan Li, Yijun Lu. Tail: An Automated and Lightweight Gradient Compression Framework for Distributed Deep Learning. In DAC 2020. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
 [4]	 Chunyuan Yuan, Qianwen Ma, Junyang Chen, Wei Zhou, Xiaodan Zhang, Xuehai Tang, Jizhong Han, Songlin Hu. Exploiting Heterogeneous Artist and Listener Preference Graph for Music Genre Classification. In ACM MM 2020. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+
 [5]	Jinrong Guo, Wantao Liu, Wang Wang, Jizhong Han, Ruixuan Li, Yijun Lu, Songlin Hu. Accelerating Distributed Deep Learning By Adaptive Gradient Quantization. In ICASSP 2020. CCF-B regular paper.  [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
 [6]	Chunyuan Yuan, Jiacheng Li, Wei Zhou, Yijun Lu, Xiaodan Zhang, Songlin Hu. DyHGCN: A Dynamic Heterogeneous Graph Convolutional Network to Learn Users’ Dynamic Preferences for Information Diffusion Prediction. In ECML-PKDD 2020. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
