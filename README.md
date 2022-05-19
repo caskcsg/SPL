@@ -1,6 +1,6 @@
 ## Paper-List
 # 2022
-[1]	Yinan Bao, Qianwen Ma, Lingwei Wei, Wei Zhou, Songlin Hu. Speaker-Guided Encoder-Decoder Framework for Emotion Recognition in Conversation. In IJCAI 2022. CCF-A regular paper.  \[PDF\](http://kcsg.net/papers/bao_ijcai22.pdf)
+[1]	Yinan Bao, Qianwen Ma, Lingwei Wei, Wei Zhou, Songlin Hu. Speaker-Guided Encoder-Decoder Framework for Emotion Recognition in Conversation. In IJCAI 2022. CCF-A regular paper.  [[PDF]](http://kcsg.net/papers/bao_ijcai22.pdf)
 
 [2]	Yinan Bao, Qianwen Ma, Lingwei Wei, Wei Zhou, Songlin Hu. Multi-Granularity Semantic Aware Graph Model for Reducing Position Bias in Emotion Cause Pair Extraction. In ACL 2022. CCF-A Findings long paper. [PDF] 整理中
 
