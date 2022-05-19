@@ -4,7 +4,7 @@ The implement of ICME2019-accepted paper “SPL: EXPLOITING UNLABELED DATA FOR M
 caffe is for classification and tensorflow is for data augmentation.
 
 This paper focus on a special data augmentation with GANs and exploit the influence of generated data in training. All codes related to this paper can be found in github.
-![](http://10.10.110.11/zwb/icme2019_spl_pub/raw/master/imgs/ICME19-framework.png)
+![](https://github.com/caskcsg/SPL/blob/main/img/ICME19-framework.png)
 
 1. Data Augmentation
 
@@ -17,7 +17,7 @@ https://github.com/LynnHo/DCGAN-LSGAN-WGAN-WGAN-GPTensorflow/
 
 Please follow the two repositories to generate your own data. In this paper, we just regard all the training data as the input and got as many as images we want.
 
-![Data enhancement diagram](http://10.10.110.11/zwb/icme2019_spl_pub/raw/master/imgs/ICME2019-data_aug.png)
+![Data enhancement diagram](https://github.com/caskcsg/SPL/blob/main/img/ICME2019-data_aug.png)
 
 2. Assign suitable labels to unlabeled data
 
@@ -26,7 +26,7 @@ First, we train a basic model with resnet-101 with its fc replaced. Specially, w
 function to amend the confidence to get the final labels for the generated images.\
 x=softmax(x)
 
-![Label assignment](http://10.10.110.11/zwb/icme2019_spl_pub/raw/master/imgs/ICME2019-label_assign.png)
+![Label assignment](https://github.com/caskcsg/SPL/blob/main/img/ICME2019-label_assign.png)
 
 3. Train the models with additional labeled data
 
