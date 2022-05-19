@@ -1,8 +1,8 @@
 ## Paper-List
 # 2022
-[1]	Yinan Bao, Qianwen Ma, Lingwei Wei, Wei Zhou, Songlin Hu. Speaker-Guided Encoder-Decoder Framework for Emotion Recognition in Conversation. In IJCAI 2022. CCF-A regular paper.  [[PDF]](http://kcsg.net/papers/bao_ijcai22.pdf)
+[1]	Yinan Bao, Qianwen Ma, Lingwei Wei, Wei Zhou, Songlin Hu. Speaker-Guided Encoder-Decoder Framework for Emotion Recognition in Conversation. In IJCAI 2022. CCF-A regular paper.  [[PDF]](http://kcsg.net/papers/bao_ijcai22.pdf) \[code\]
 
-[2]	Yinan Bao, Qianwen Ma, Lingwei Wei, Wei Zhou, Songlin Hu. Multi-Granularity Semantic Aware Graph Model for Reducing Position Bias in Emotion Cause Pair Extraction. In ACL 2022. CCF-A Findings long paper. [PDF] 整理中
+[2]	Yinan Bao, Qianwen Ma, Lingwei Wei, Wei Zhou, Songlin Hu. Multi-Granularity Semantic Aware Graph Model for Reducing Position Bias in Emotion Cause Pair Extraction. In ACL 2022. CCF-A Findings long paper. [PDF](http://kcsg.net/papers/bao_findings-acl.pdf) \[code\]
 
 [3]	Ding Wang, Lingwei Wei, ChunYuan Yuan, Yinan Bao, Wei Zhou, Xian Zhu, Songlin Hu. Cascade-Enhanced Graph Convolutional Networks for Information Diffusion Prediction. In DASFAA 2022. CCF-B regular paper. [PDF]完毕1、folked；2、链接粘上（组）
 
