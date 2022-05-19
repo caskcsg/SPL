@@ -18,7 +18,7 @@
 [5]	Ting Ma, Shangwen Lv, Longtao Huang, Songlin Hu. HiAM: A Hierarchical Attention based Model for knowledge graph multi-hop reasoning. Neural Networks 143: 261-270 (2021). CCF-B regular paper. [PDF]整理中
 [6]	Jinzhu Yang, Wei Zhou, Wanhui Qian, Jizhong Han, Songlin Hu. Topic Sequence Embedding for User Identity Linkage from Heterogeneous Behavior Data. In ICASSP 2021. CCF-B regular paper. [PDF]王鼎
 [7]	Wanhui Qian, Fuqing Zhu, Jinzhu Yang, Jizhong Han, Songlin Hu. Aligning the Training and Evaluation of Unsupervised Text Style Transfer. In ICASSP 2021. CCF-B regular paper. [PDF]整理中
-2020
+# 2020
 [1]	Shangwen Lv, Daya Guo, Jingjing Xu, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Songlin Hu. Graph-based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering. In AAAI 2020: 8449-8456. CCF-A regular paper. [PDF] https://github.com/DecstionBack/AAAI_2020_CommonsenseQA
 [2]	Mingming Li, Shuai Zhang, Fuqing Zhu, Wanhui Qian, Liangjun Zang, Jizhong Han, Songlin Hu. Symmetric Metric Learning with Adaptive Margin for Recommendation. In AAAI 2020: 4634-4641. CCF-A regular paper. [PDF]有，发你GitHub - MingmingLie/SML: Symmetric Metric Learning with Adaptive Margin for Recommendation
 [3]	Jinrong Guo, Songlin Hu, Wang Wang, Chunrong Yao, Jizhong Han, Ruixuan Li, Yijun Lu. Tail: An Automated and Lightweight Gradient Compression Framework for Distributed Deep Learning. In DAC 2020. CCF-A regular paper.  [PDF]没有
@@ -32,9 +32,11 @@
 [11]	Shangwen Lv, Longtao Huang, Liangjun Zang, Wei Zhou, Jizhong Han, Songlin Hu. Yet another approach to understanding news event evolution. World Wide Web J. 2020, 23(4): 2449-2470. CCF-B journal paper. [PDF]
 [12]	Qianwen Ma, Chunyuan Yuan, Wei Zhou, Jizhong Han, Songlin Hu. Beyond Statistical Relations: Integrating Knowledge Relations into Style Correlations for Multi-Label Music Style Classification. In WSDM 2020: 411-419. CCF-B regular paper. [PDF]整理中
 [13]	 Yan Zhou, Wei Jiang, Po Song, Yipeng Su, Tao Guo, Jizhong Han, Songlin Hu. Graph Convolutional Networks for Target-oriented Opinion Words Extraction with Adversarial Training. In IJCNN 2020. Best Student Paper Award. [PDF]
-2019
+# 2019
 [1]	Shangwen Lv, Wanhui Qian, Longtao Huang, Jizhong Han, Songlin Hu. SAM-Net: Integrating Event-Level and Chain-Level Attentions to Predict What Happens Next. In AAAI 2019: 6802-6809. CCF-A regular paper. [PDF] http://10.10.110.11/Lv/aaai_2019_script_learning
+
 [2]	Xing Wu, Tao Zhang, Liangjun Zang, Jizhong Han, Songlin Hu. Mask and Infill: Applying Masked Language Model to Sentiment Transfer. In IJCAI 2019: 5271-5277. CCF-A regular paper. [PDF] https://github.com/IIEKES/MLM_transfer
+
 [3]	Yan Zhou, Longtao Huang, Tao Guo, Jizhong Han, Songlin Hu. A Span-based Joint Model for Opinion Target Extraction and Target Sentiment Classification. In IJCAI 2019: 5485-5491. CCF-A regular paper. [PDF] 整理中
 [4]	Chunyuan Yuan, Qianwen Ma, Wei Zhou, Jizhong Han, Songlin Hu. Jointly embedding the local and global relations of heterogeneous graph for rumor detection. In ICDM 2019: 796-805. CCF-B regular paper. [PDF] http://10.10.110.11/chunyuan/rumordetection 
 [5]	Chunyuan Yuan, Wei Zhou, Mingming Li, Shangwen Lv, Fuqing Zhu, Jizhong Han, Songlin Hu. Multi-hop Selector Network for Multi-turn Response Selection in Retrieval-based Chatbots. In EMNLP-IJCNLP 2019: 111-120. CCF-B regular paper. [PDF] chunyuanY/Dialogue (github.com)
