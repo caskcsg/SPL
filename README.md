@@ -18,7 +18,7 @@
 
 [9]	Ting Ma, Mingming Li, Shangwen Lv, Fuqing Zhu, Longtao Huang, Songlin Hu. ContE: Contextualized Knowledge Graph Embedding for Circular Relations. Data Mining and Knowledge Discovery 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/ma_dmkd2022.pdf) \[code\]
 
-[10]	Xing Wu, Chaochen Gao, Meng Lin, Liangjun Zang, Songlin Hu. Text Smoothing: Enhance Various Data Augmentation Methods on Text Classification Tasks. In ACL 2022. CCF-A Main conference short paper. [[PDF]](http://kcsg.net/papers/wu_acl-short.pdf) \[code\]
+[10]	Xing Wu, Chaochen Gao, Meng Lin, Liangjun Zang, Songlin Hu. Text Smoothing: Enhance Various Data Augmentation Methods on Text Classification Tasks. In ACL 2022. CCF-A Main conference short paper. [[PDF]](http://kcsg.net/papers/wu_acl-short.pdf) [[code]](https://github.com/caskcsg/TextSmoothing)
 
 # 2021
 [1]	Lingwei Wei, Dou Hu, Wei Zhou, Zhaojuan Yue, Songlin Hu. Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection. In ACL-IJCNLP 2021. CCF-A regular paper. [PDF]完毕 https://github.com/weilingwei96/EBGCN
