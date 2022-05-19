@@ -10,7 +10,7 @@
 
 [5]	Weibo Zhang, Fuqing Zhu, Jizhong Han, Tao Guo, Songlin Hu. Cross-layer Aggregation with Transformers for Multi-Label Image Classification. In ICASSP 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/zhangweibo_icassp2022.pdf) \[code\]
 
-[6]	Xiaohui Song, Liangjun Zang, Rong Zhang, Songlin Hu, Longtao Huang. EmotionFlow: Capture the Dialogue Level Emotion Transitions. In ICASSP 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/song_icassp2022.pdf) \[code\]
+[6]	Xiaohui Song, Liangjun Zang, Rong Zhang, Songlin Hu, Longtao Huang. EmotionFlow: Capture the Dialogue Level Emotion Transitions. In ICASSP 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/song_icassp2022.pdf) [[code]](https://github.com/caskcsg/emotionflow)
 
 [7]	Zhuohua Li, Weibo Zhang, Ziang Yang, Fuqing Zhu, Jizhong Han, Songlin Hu. UFI: a Unified Feature Interaction framework for Multi-Label Image Classification. In ICME 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/li_icme2022.pdf) \[code\]
 
