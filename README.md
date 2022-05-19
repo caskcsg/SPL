@@ -16,9 +16,9 @@
 
 [8]	Ting Ma, Longtao Huang, Qianqian Lu, Songlin Hu. KR-GCN: Knowledge-aware Reasoning with Graph Convolution Network for Explainable Recommendation. TOIS 2022.CCF-A regular paper. [[PDF]](http://kcsg.net/papers/ma_tois2022.pdf) \[CODE\]
 
-[9]	Ting Ma, Mingming Li, Shangwen Lv, Fuqing Zhu, Longtao Huang, Songlin Hu. ContE: Contextualized Knowledge Graph Embedding for Circular Relations. Data Mining and Knowledge Discovery 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/ma_dmkd2022.pdf) \[CODE\]
+[9] Ting Ma, Mingming Li, Shangwen Lv, Fuqing Zhu, Longtao Huang, Songlin Hu. ContE: Contextualized Knowledge Graph Embedding for Circular Relations. Data Mining and Knowledge Discovery 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/ma_dmkd2022.pdf) \[CODE\]
 
-[10]	Xing Wu, Chaochen Gao, Meng Lin, Liangjun Zang, Songlin Hu. Text Smoothing: Enhance Various Data Augmentation Methods on Text Classification Tasks. In ACL 2022. CCF-A Main conference short paper. [[PDF]](http://kcsg.net/papers/wu_acl-short.pdf) [[CODE]](https://github.com/caskcsg/TextSmoothing)
+[10] Xing Wu, Chaochen Gao, Meng Lin, Liangjun Zang, Songlin Hu. Text Smoothing: Enhance Various Data Augmentation Methods on Text Classification Tasks. In ACL 2022. CCF-A Main conference short paper. [[PDF]](http://kcsg.net/papers/wu_acl-short.pdf) [[CODE]](https://github.com/caskcsg/TextSmoothing)
 
 # 2021
 [1]	Lingwei Wei, Dou Hu, Wei Zhou, Zhaojuan Yue, Songlin Hu. Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection. In ACL-IJCNLP 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
@@ -35,31 +35,31 @@
 
 [7]	Wanhui Qian, Fuqing Zhu, Jinzhu Yang, Jizhong Han, Songlin Hu. Aligning the Training and Evaluation of Unsupervised Text Style Transfer. In ICASSP 2021. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/qian_icassp21.pdf) \[CODE\]
 # 2020
-[1]	Shangwen Lv, Daya Guo, Jingjing Xu, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Songlin Hu. Graph-based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering. In AAAI 2020: 8449-8456. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/1_lv_AAAI2020.pdf) \[CODE\](https://github.com/caskcsg/EBGCN)
+[1]	Shangwen Lv, Daya Guo, Jingjing Xu, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Songlin Hu. Graph-based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering. In AAAI 2020: 8449-8456. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/1_lv_AAAI2020.pdf) [[CODE]](https://github.com/caskcsg/CommonsenseQA)
 
-[2]	Mingming Li, Shuai Zhang, Fuqing Zhu, Wanhui Qian, Liangjun Zang, Jizhong Han, Songlin Hu. Symmetric Metric Learning with Adaptive Margin for Recommendation. In AAAI 2020: 4634-4641. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[2]	Mingming Li, Shuai Zhang, Fuqing Zhu, Wanhui Qian, Liangjun Zang, Jizhong Han, Songlin Hu. Symmetric Metric Learning with Adaptive Margin for Recommendation. In AAAI 2020: 4634-4641. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/2_li_AAAI2020.pdf) [[CODE]](https://github.com/caskcsg/SML)
 
 [3]	Jinrong Guo, Songlin Hu, Wang Wang, Chunrong Yao, Jizhong Han, Ruixuan Li, Yijun Lu. Tail: An Automated and Lightweight Gradient Compression Framework for Distributed Deep Learning. In DAC 2020. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
-[4]	 Chunyuan Yuan, Qianwen Ma, Junyang Chen, Wei Zhou, Xiaodan Zhang, Xuehai Tang, Jizhong Han, Songlin Hu. Exploiting Heterogeneous Artist and Listener Preference Graph for Music Genre Classification. In ACM MM 2020. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[4]	Chunyuan Yuan, Qianwen Ma, Junyang Chen, Wei Zhou, Xiaodan Zhang, Xuehai Tang, Jizhong Han, Songlin Hu. Exploiting Heterogeneous Artist and Listener Preference Graph for Music Genre Classification. In ACM MM 2020. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/57_Yuan_MM%202020.pdf) [[CODE]](https://github.com/caskcsg/MusicGenre)
 
 [5]	Jinrong Guo, Wantao Liu, Wang Wang, Jizhong Han, Ruixuan Li, Yijun Lu, Songlin Hu. Accelerating Distributed Deep Learning By Adaptive Gradient Quantization. In ICASSP 2020. CCF-B regular paper.  [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
-[6]	Chunyuan Yuan, Jiacheng Li, Wei Zhou, Yijun Lu, Xiaodan Zhang, Songlin Hu. DyHGCN: A Dynamic Heterogeneous Graph Convolutional Network to Learn Users’ Dynamic Preferences for Information Diffusion Prediction. In ECML-PKDD 2020. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[6]	Chunyuan Yuan, Jiacheng Li, Wei Zhou, Yijun Lu, Xiaodan Zhang, Songlin Hu. DyHGCN: A Dynamic Heterogeneous Graph Convolutional Network to Learn Users’ Dynamic Preferences for Information Diffusion Prediction. In ECML-PKDD 2020. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/DyHGCN)
 
-[7]	 Lingwei Wei, Dou Hu, Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis. In ECML-PKDD 2020. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[7]	Lingwei Wei, Dou Hu, Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis. In ECML-PKDD 2020. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
-[8]	 Chunyuan Yuan, Qianwen Ma, Wei Zhou, Jizhong Han and Songlin Hu. Early Detection of Fake News by Utilizing the Credibility of News, Publishers, and Users Based on Weakly Supervised Learning. In COLING 2020. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[8]	Chunyuan Yuan, Qianwen Ma, Wei Zhou, Jizhong Han and Songlin Hu. Early Detection of Fake News by Utilizing the Credibility of News, Publishers, and Users Based on Weakly Supervised Learning. In COLING 2020. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
 [9]	Shangwen Lv, Fuqing Zhu, Songlin Hu. Integrating External Event Knowledge for Script Learning. In COLING 2020. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
-[10]	Jinzhu Yang, Wei Zhou, Lingwei Wei, Junyu Lin, Jizhong Han, Songlin Hu. RE-GCN. Relation Enhanced Graph Convolutional Network for Entity Alignment in Heterogeneous Knowledge Graphs. In DASFAA 2020: 432-447. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[10] Jinzhu Yang, Wei Zhou, Lingwei Wei, Junyu Lin, Jizhong Han, Songlin Hu. RE-GCN. Relation Enhanced Graph Convolutional Network for Entity Alignment in Heterogeneous Knowledge Graphs. In DASFAA 2020: 432-447. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
-[11]	Shangwen Lv, Longtao Huang, Liangjun Zang, Wei Zhou, Jizhong Han, Songlin Hu. Yet another approach to understanding news event evolution. World Wide Web J. 2020, 23(4): 2449-2470. CCF-B journal paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[11] Shangwen Lv, Longtao Huang, Liangjun Zang, Wei Zhou, Jizhong Han, Songlin Hu. Yet another approach to understanding news event evolution. World Wide Web J. 2020, 23(4): 2449-2470. CCF-B journal paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
-[12]	Qianwen Ma, Chunyuan Yuan, Wei Zhou, Jizhong Han, Songlin Hu. Beyond Statistical Relations: Integrating Knowledge Relations into Style Correlations for Multi-Label Music Style Classification. In WSDM 2020: 411-419. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[12] Qianwen Ma, Chunyuan Yuan, Wei Zhou, Jizhong Han, Songlin Hu. Beyond Statistical Relations: Integrating Knowledge Relations into Style Correlations for Multi-Label Music Style Classification. In WSDM 2020: 411-419. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
-[13]	 Yan Zhou, Wei Jiang, Po Song, Yipeng Su, Tao Guo, Jizhong Han, Songlin Hu. Graph Convolutional Networks for Target-oriented Opinion Words Extraction with Adversarial Training. In IJCNN 2020. Best Student Paper Award. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[13] Yan Zhou, Wei Jiang, Po Song, Yipeng Su, Tao Guo, Jizhong Han, Songlin Hu. Graph Convolutional Networks for Target-oriented Opinion Words Extraction with Adversarial Training. In IJCNN 2020. Best Student Paper Award. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 # 2019
 [1]	Shangwen Lv, Wanhui Qian, Longtao Huang, Jizhong Han, Songlin Hu. SAM-Net: Integrating Event-Level and Chain-Level Attentions to Predict What Happens Next. In AAAI 2019: 6802-6809. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
