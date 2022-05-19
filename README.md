@@ -6,7 +6,7 @@
 
 [3]	Ding Wang, Lingwei Wei, ChunYuan Yuan, Yinan Bao, Wei Zhou, Xian Zhu, Songlin Hu. Cascade-Enhanced Graph Convolutional Networks for Information Diffusion Prediction. In DASFAA 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/Wang_dasffa2022.pdf) \[code\]
 
-[4]	Xiaobin Zhang, Liangjun Zang, Peng Cheng, Yuqi Wang, Songlin Hu. A Knowledge/Data Enhanced Method for Joint Event and Temporal Relation Extraction. In ICASSP 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/zhangxiaobin_icassp2022.pdf) \[code\]
+[4]	Xiaobin Zhang, Liangjun Zang, Peng Cheng, Yuqi Wang, Songlin Hu. A Knowledge/Data Enhanced Method for Joint Event and Temporal Relation Extraction. In ICASSP 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/zhangxiaobin_icassp2022.pdf) [[code]](https://github.com/caskcsg/KJETE)
 
 [5]	Weibo Zhang, Fuqing Zhu, Jizhong Han, Tao Guo, Songlin Hu. Cross-layer Aggregation with Transformers for Multi-Label Image Classification. In ICASSP 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/zhangweibo_icassp2022.pdf) \[code\]
 
