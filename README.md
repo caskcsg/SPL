@@ -1,4 +1,4 @@
-## Paper-List
+## Publication
 # 2022
 [1]	Yinan Bao, Qianwen Ma, Lingwei Wei, Wei Zhou, Songlin Hu. Speaker-Guided Encoder-Decoder Framework for Emotion Recognition in Conversation. In IJCAI 2022. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/bao_ijcai22.pdf) \[code\]
 
