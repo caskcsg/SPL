@@ -23,7 +23,7 @@
 # 2021
 [1]	Lingwei Wei, Dou Hu, Wei Zhou, Zhaojuan Yue, Songlin Hu. Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection. In ACL-IJCNLP 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
-[2]	Qianwen Ma, Chunyuan Yuan, Wei Zhou, Songlin Hu. Label-Specific Dual Graph Neural Network for Multi-Label Text Classification. In ACL-IJCNLP 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[2]	Qianwen Ma, Chunyuan Yuan, Wei Zhou, Songlin Hu. Label-Specific Dual Graph Neural Network for Multi-Label Text Classification. In ACL-IJCNLP 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/ma_2021.acl-long.pdf) [[CODE]]
 
 [3]	Yan Zhou, Fuqing Zhu, Pu Song, Jizhong Han, Tao Guo, Songlin Hu. An Adaptive Hybrid Framework for Cross-domain Aspect-based Sentiment Analysis. In AAAI 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
