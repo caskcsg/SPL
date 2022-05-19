@@ -35,7 +35,7 @@
 
 [7]	Wanhui Qian, Fuqing Zhu, Jinzhu Yang, Jizhong Han, Songlin Hu. Aligning the Training and Evaluation of Unsupervised Text Style Transfer. In ICASSP 2021. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/qian_icassp21.pdf) \[CODE\]
 # 2020
-[1]	Shangwen Lv, Daya Guo, Jingjing Xu, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Songlin Hu. Graph-based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering. In AAAI 2020: 8449-8456. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[1]	Shangwen Lv, Daya Guo, Jingjing Xu, Duyu Tang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Songlin Hu. Graph-based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering. In AAAI 2020: 8449-8456. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/1_lv_AAAI2020.pdf) \[CODE\](https://github.com/caskcsg/EBGCN)
 
 [2]	Mingming Li, Shuai Zhang, Fuqing Zhu, Wanhui Qian, Liangjun Zang, Jizhong Han, Songlin Hu. Symmetric Metric Learning with Adaptive Margin for Recommendation. In AAAI 2020: 4634-4641. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
